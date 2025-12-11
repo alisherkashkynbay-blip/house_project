@@ -1,0 +1,21 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Виртуальные окружения
+venv/
+.venv/
+env/
+.env/
+
+# Настройки VS Code
+.vscode/
+
+# Архивы сырых данных
+data/raw/*.zip
+data/raw/*.rar
