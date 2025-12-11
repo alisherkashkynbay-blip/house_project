@@ -31,6 +31,7 @@ project/
 - Добавить больше визуализаций для признаков                        
 
 
-Add future improvements section to README
+
+
 
 
