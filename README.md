@@ -16,7 +16,7 @@ project/
 ├── data/
 │   ├── raw/               # исходные данные
 │   │   └── data.csv
-│   └── processed/         
+│   └── processed/         # данные для дальнейшего анализа или использования
 ├── notebooks/
 │   └── analysis.ipynb     # основной Jupyter Notebook с EDA и моделями
 ├── src/
