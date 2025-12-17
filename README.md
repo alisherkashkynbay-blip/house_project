@@ -16,19 +16,15 @@ project/
 ├── data/
 │   ├── raw/               # исходные данные
 │   │   └── data.csv
-│   └── processed/         # (по желанию) очищенные данные
+│   └── processed/         
 ├── notebooks/
 │   └── analysis.ipynb     # основной Jupyter Notebook с EDA и моделями
 ├── src/
 │   └── preprocessing.py   # функции для предобработки данных
 └── images/
     └── visualizations/    # графики и визуализации (png/jpg)
+                       
 
-## План дальнейших улучшений
-
-- Добавить больше моделей (XGBoost, CatBoost)
-- Попробовать кросс-валидацию
-- Добавить больше визуализаций для признаков                        
 
 
 
